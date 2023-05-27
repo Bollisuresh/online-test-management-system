@@ -1,1 +1,4 @@
 # online-test-management-system
+
+This unique Online Test Management System, uses todays, upto-date tools and services inorder to provide users with the most sophesticated service without any inconviniences.
+The main theme behind this project is to reduce human, and focuses more on automating the process of examination. This has been developed for conducting multiple choice test.Exam have Time Limit for every section, this also provides time limit. The user can see their results after completing the exam. This facilitates the students to write the exam remotely and this ensures security and simplicity and other beneficial features to the user.The project allows the faculty to create their own custom tests. It would enable educational institutes to perform tests,quiz and create feedback forms. 
